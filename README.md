@@ -2,6 +2,7 @@
 
 **AI-powered prior authorization decision engine** that analyzes clinical documentation, evaluates payer policies, and generates authorization decisions with appeal letters.
 
+![AutoAuth Architecture](images/architecture.png)
 ---
 
 ## 🏗️ Project Structure
