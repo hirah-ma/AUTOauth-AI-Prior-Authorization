@@ -5,6 +5,10 @@
 ![AutoAuth Architecture](images/architecture.png)
 ---
 
+
+![Project Demo](images/a1.gif)
+
+
 ## 🏗️ Project Structure
 
 ```
